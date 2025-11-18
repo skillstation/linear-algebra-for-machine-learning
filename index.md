@@ -124,12 +124,17 @@ This project aims to develop a complete handwritten character recognition system
 ---
 
 ## Instructor Notes & Deliverables
+
 - Weekly lecture slides and code notebooks (NumPy-only for clarity) recommended.
+  
 - Datasets: start with 10 PNGs (0–9) for initial labs; scale to MNIST for full project.
+  
 - Assessment: weekly labs (40%), midterm project checkpoint (20%), final project (40%).
 
 ---
 
 **Instructor:** Elangovan M. G., IITM
+
 **Course length:** 12–14 weeks
+
 **Primary tools:** Python (NumPy, Matplotlib), optional: scikit-learn, PyTorch/TensorFlow for extensions
